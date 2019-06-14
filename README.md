@@ -35,7 +35,7 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 
 ## Considerations
 * Take note of how the 'bottles' turns to 'bottle' at the right time
-* You can certainly use `while`, `for`, `each`, and various other built in methods
+* You can certainly use `while`, `for`, `forEach`, and various other built in methods
 
 ## Challenge Yourself
 * Make your code able to take in and account for any bottle amount
