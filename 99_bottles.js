@@ -1,5 +1,5 @@
 function bottleSong() {
-  // Write your code here!
+  // Write your code here
 };
 
 bottleSong();
